@@ -1,3 +1,3 @@
 # MyFirstRepo
 Understanding Git
-<h1>Authot Shree mant</h1>
+<h1>Author Shree mant</h1>
